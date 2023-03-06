@@ -98,7 +98,7 @@ while(dev.isCoding())
 
 <details>
     <summary>📊 Coding Activity </summary>
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
+      <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/33ea0a6b-5dc8-4e9f-8b3a-f831b66f30cc.png" /></a>
 </br></details>
 
 <details>
