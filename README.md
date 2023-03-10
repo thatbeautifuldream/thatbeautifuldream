@@ -110,11 +110,11 @@ while(dev.isCoding())
 ## 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Production Workflow with PM2 Process Manager Automation](https://blog.milind.live/enhance-your-production-workflow-with-pm2-process-manager-automation)
 - [Abstract Equality and Special Types!](https://blog.milind.live/abstract-equality-and-special-types)
 - [[object Object]](https://blog.milind.live/object-object)
 - [Wait, so you&#39;re saying JavaScript isn&#39;t weird!](https://blog.milind.live/wait-so-youre-saying-javascript-isnt-weird)
 - [React Router v6 Basics &amp; Migration guide from v5](https://blog.milind.live/react-router-v6-basics-migration-guide-from-v5)
-- [useContext &amp; useReducer 🪝from component level state to global state!](https://blog.milind.live/usecontext-usereducer-from-component-level-state-to-global-state)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ [read more here...][blog]
