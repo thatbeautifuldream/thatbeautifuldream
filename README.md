@@ -103,7 +103,7 @@ while(dev.isCoding())
 
 <details>
     <summary>🚀 Language Usage</summary>
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/558cb569-454a-4002-9ac7-41d99600101e.png" /></a>
+      <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/1fbc2e5f-6362-4080-8af6-163474505e5d.png" /></a>
 </br></details>
 
 
