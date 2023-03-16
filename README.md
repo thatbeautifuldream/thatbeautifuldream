@@ -106,6 +106,9 @@ while(dev.isCoding())
       <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/1fbc2e5f-6362-4080-8af6-163474505e5d.png" /></a>
 </br></details>
 
+[![ig-banner](https://user-images.githubusercontent.com/28717686/225707719-3370d11f-1400-40ab-89f6-44b73fc779ed.png)][instagram]
+
+
 
 ## 🧠 Blog posts
 
