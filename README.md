@@ -11,7 +11,10 @@
 [![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
 
 
-<!--START_SECTION:activity-->
+<details>
+    <summary>📊 View More</summary>
+
+  <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
 2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
 3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
@@ -157,3 +160,5 @@ Bash         10 mins         ▒░░░░░░░░░░░░░░░░
 [linkedin]: https://linkedin.com/in/milind--mishra/
 [biolink]: https://milind.bio.link/
 [amazon]: https://www.amazon.in/
+
+</details>
