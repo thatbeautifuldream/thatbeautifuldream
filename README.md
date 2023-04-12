@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I%27m+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)][linkedin]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin]
 
 [![main-header-banner](https://user-images.githubusercontent.com/28717686/218341325-09ecb98f-bca5-4029-94a4-bd3aabd6a671.png)][biolink]
 
+<!-- 
 [![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
 [![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
 [![generate-contribution-snake](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml)
@@ -9,7 +10,7 @@
 [![pages-build-deployment](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment)
 [![update-waka-stats](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml)
 [![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
-
+ -->
 
 <details>
     <summary>📊 View More</summary>
