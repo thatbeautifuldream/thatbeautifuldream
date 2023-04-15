@@ -142,12 +142,10 @@ while(dev.isCoding())
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 hrs 30 mins  ███████████████▒░░░░░░░░░   61.33 %
-Markdown     3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-YAML         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Docker       1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-JSON         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Other        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JavaScript                 12 hrs 57 mins  ██████████████▒░░░░░░░░░░   57.99 %
+Markdown                   3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+YAML                       1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Other                      1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
