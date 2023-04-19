@@ -1,5 +1,4 @@
-[<img width="2020" alt="main-header-banner" src="https://user-images.githubusercontent.com/28717686/232966442-5d4fe7f1-fb5c-4bf9-b45e-fea564ee0c53.png">][biolink]
-
+[![main-header-banner](https://user-images.githubusercontent.com/28717686/232991267-6cc41e91-2401-4123-b7ab-03a0478a5704.png)][biolink]
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin] -->
 
@@ -159,7 +158,8 @@ Other                      2 hrs           ██▓░░░░░░░░░�
 [youtube]: https://youtube.com/milindmishra?sub_confirmation=1
 [instagram]: https://instagram.com/thatbeautifuldream/
 [linkedin]: https://linkedin.com/in/milind--mishra/
-[biolink]: https://milind.bio.link/
+[biolink]: https://bento.me/milindmishra/
 [amazon]: https://www.amazon.in/
+[wakatime]: https://wakatime.com/@milindmishra
 
 </details>
