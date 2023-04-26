@@ -12,7 +12,7 @@
 [![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
  -->
 
-<sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub>
+<sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub>
 
 <details>
    <summary>more...</summary>
