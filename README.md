@@ -6,6 +6,10 @@
 
 [![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live)
 
+`
+Hey 👋, I'm Milind, I'm into Web Infrastructure.
+`
+
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin] -->
 
 <!-- 
