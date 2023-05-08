@@ -42,7 +42,7 @@ while(dev.isCoding())
 }
 ```
 
-## ✨ Connect on Networks
+### All Socials
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin]
 
@@ -70,7 +70,7 @@ while(dev.isCoding())
   </a>&ensp;
 </div>
 
-## GitHub Stats
+### GitHub Stats
 
 [![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live)
 
@@ -89,11 +89,11 @@ while(dev.isCoding())
 </div>
 
 <details>
-    <summary>📊 More Metrics </summary>
+    <summary>More Metrics </summary>
       <a href="https://metrics.lecoq.io/insights/thatbeautifuldream"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
 </details>
 
-## 📺 Latest from my [YouTube][youtube]
+### Latest from [`YouTube`][youtube]
 
 <!-- YOUTUBE:START -->
 
@@ -104,21 +104,19 @@ while(dev.isCoding())
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
-## 👀 Work Related [`➡️ Resume`](https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf)
+### Work Related [`Resume`](https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf)
 
 <details>
-    <summary>📊 Coding Activity </summary>
+    <summary>Coding Activity </summary>
       <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/33ea0a6b-5dc8-4e9f-8b3a-f831b66f30cc.png" /></a>
 </br></details>
 
 <details>
-    <summary>🚀 Language Usage</summary>
+    <summary>Language Usage</summary>
       <a href="https://wakatime.com/@milindmishra"><img src="https://wakatime.com/share/@milindmishra/1fbc2e5f-6362-4080-8af6-163474505e5d.png" /></a>
 </br></details>
 
-[![ig-banner](https://user-images.githubusercontent.com/28717686/225707719-3370d11f-1400-40ab-89f6-44b73fc779ed.png)][instagram]
-
-## 🧠 Blog posts
+### Latest fom [`Hashnode`][blog]
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -131,17 +129,15 @@ while(dev.isCoding())
 
 ⚡️ [read more here...][blog]
 
-[![blog-banner](https://user-images.githubusercontent.com/28717686/210162132-db3d10e2-975b-462e-94df-685d341640de.png)][blog]
+### github contribs <> snake
 
-## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
-
-[![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)][biolink]
+[![snake animation](https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/output/github-contribution-grid-snake.svg)][biolink]
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
 
-## 📊 My recent coding activity
+### Recent coding activity
 
 <!--START_SECTION:waka-->
 
