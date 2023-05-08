@@ -28,7 +28,7 @@ Hey 👋, I'm Milind, I'm into Web Infrastructure.
 
 <p align="center">
   <a href="https://github.com/thatbeautifuldream">
-    <img alt="confetti" src="./.github/assets/confetti.svg" width="100%" />
+    <img alt="confetti" src="https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/confetti.svg" width="100%" />
   </a>
 </p>
 
