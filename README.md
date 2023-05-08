@@ -4,15 +4,15 @@
 
 <!-- [![skyline-banner](https://user-images.githubusercontent.com/28717686/236796728-7fa1df3e-7a13-4816-8b27-61f038401323.png)](https://bio.milind.live) -->
 
-[![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live)
+<!-- [![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live) -->
 
-`
+<!-- `
 Hey 👋, I'm Milind, I'm into Web Infrastructure.
-`
+` -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin] -->
 
-<!-- 
+<!--
 [![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
 [![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
 [![generate-contribution-snake](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml)
@@ -22,12 +22,42 @@ Hey 👋, I'm Milind, I'm into Web Infrastructure.
 [![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
  -->
 
-<sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub>
+<!-- <sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub> -->
+
+<!-- markdownlint-disable-MD033 no-inline-html -->
+<h1 align="center">Hi 👋, I'm Milind, I'm into Web Infrastructure.</h1>
+
+<p align="center">
+  <a href="https://github.com/thatbeautifuldream">
+    <img alt="confetti" src="./.github/assets/confetti.svg" width="100%" />
+  </a>
+</p>
+
+<div align="center">
+  <strong>I am a Software Engineer</strong>
+</div>
+<p align="center">
+  <span>Based in</span>
+  <strong>Hinshu, Taiwan</strong>
+  <span> but I also spend lots of time at home in </span>
+  <strong>Dhanbad, India.</strong>
+</p>
+
+<div align="center">
+  The best way to reach me is on LinkedIn.
+  <br />
+  <a href="https://bio.milind.live/">All Links</a>
+  <span> · </span>
+  <a href="https://wakatime.com/@milindmishra/">Wakatime</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/milind--mishra/">LinkedIn</a>
+</div>
 
 <details>
    <summary>more...</summary>
 
   <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
 2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
 3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
@@ -100,6 +130,7 @@ while(dev.isCoding())
 ## 📺 Latest from my [YouTube][youtube]
 
 <!-- YOUTUBE:START -->
+
 - [A relaxing Sunday stream to help you de-stress!](https://www.youtube.com/watch?v=_BDFdOoOl2E)
 - [Create an Impressive GitHub Profile README](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
@@ -108,7 +139,6 @@ while(dev.isCoding())
 <!-- YOUTUBE:END -->
 
 [![setup-banner](https://user-images.githubusercontent.com/28717686/210162149-98e5716b-2c32-493e-ade2-b91392e40cfc.png)][amazon]
-
 
 ## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
@@ -124,11 +154,10 @@ while(dev.isCoding())
 
 [![ig-banner](https://user-images.githubusercontent.com/28717686/225707719-3370d11f-1400-40ab-89f6-44b73fc779ed.png)][instagram]
 
-
-
 ## 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Types of Software Engineers](https://blog.milind.live/types-of-software-engineers)
 - [Enhance Your Production Workflow with PM2 Process Manager Automation](https://blog.milind.live/enhance-your-production-workflow-with-pm2-process-manager-automation)
 - [Abstract Equality and Special Types!](https://blog.milind.live/abstract-equality-and-special-types)
@@ -148,7 +177,6 @@ while(dev.isCoding())
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
 </div>
 
-
 ## 📊 My recent coding activity
 
 <!--START_SECTION:waka-->
@@ -162,7 +190,6 @@ YAML         1 hr 48 mins    ██▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
 
 [website]: https://milind.live/
 [blog]: https://blog.milind.live/
