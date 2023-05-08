@@ -1,6 +1,9 @@
 <!-- [![main-header-banner](https://user-images.githubusercontent.com/28717686/235944207-c23b0cd9-8019-445e-ab77-501870336d68.png)][biolink] -->
 
-[![main-header-banner](https://user-images.githubusercontent.com/28717686/236653498-5ce9eb5c-2289-42a2-8450-de998f01c906.png)][biolink]
+<!-- [![main-header-banner](https://user-images.githubusercontent.com/28717686/236653498-5ce9eb5c-2289-42a2-8450-de998f01c906.png)][biolink] -->
+
+[![skyline-banner](https://user-images.githubusercontent.com/28717686/236796728-7fa1df3e-7a13-4816-8b27-61f038401323.png)](https://bio.milind.live)
+
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin] -->
 
