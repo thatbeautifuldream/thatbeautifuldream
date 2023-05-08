@@ -4,7 +4,7 @@
 
 <!-- [![skyline-banner](https://user-images.githubusercontent.com/28717686/236796728-7fa1df3e-7a13-4816-8b27-61f038401323.png)](https://bio.milind.live) -->
 
-<!-- [![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live) -->
+
 
 <!-- `
 Hey 👋, I'm Milind, I'm into Web Infrastructure.
@@ -24,8 +24,7 @@ Hey 👋, I'm Milind, I'm into Web Infrastructure.
 
 <!-- <sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub> -->
 
-<!-- markdownlint-disable-MD033 no-inline-html -->
-<h1 align="center">Hi 👋, I'm Milind, I'm into Web Infrastructure.</h1>
+<h1 align="center">Hi, I'm Milind. I'm into Web Infrastructure.</h1>
 
 <p align="center">
   <a href="https://github.com/thatbeautifuldream">
@@ -105,6 +104,8 @@ while(dev.isCoding())
 </div>
 
 ## GitHub Stats
+
+[![raw-skyline-banner](https://user-images.githubusercontent.com/28717686/236797152-ed80fdda-46e1-4b15-8449-e897f2d5c5e0.png)](https://bio.milind.live)
 
 <div align="center">
   <a href="https://milind.bio.link/" >
