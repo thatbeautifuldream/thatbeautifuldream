@@ -19,9 +19,9 @@
 <div align="center">
   The best way to reach me is on LinkedIn.
   <br />
-  <a href="https://bio.milind.live/">All Links</a>
+  <a href="https://bio.milind.live/">BioLink</a>
   <span> · </span>
-  <a href="https://wakatime.com/@milindmishra/">Wakatime</a>
+  <a href="https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf">Resume</a>
   <span> · </span>
   <a href="https://www.linkedin.com/in/milind--mishra/">LinkedIn</a>
 </div>
@@ -41,8 +41,6 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
-
-![update-banner](https://user-images.githubusercontent.com/28717686/210162173-3ee23ba2-b62b-466a-9452-0053b0c55902.png)
 
 ## ✨ Connect on Networks
 
@@ -84,8 +82,6 @@ while(dev.isCoding())
   </a>
 </div>
 
-[![middle-banner](https://user-images.githubusercontent.com/28717686/208221400-8ee1da9a-227b-4621-a4c7-72673cb416ff.png)][biolink]
-
 <div align="center">
   <a href="https://milind.bio.link/" >
     <img src = "http://github-readme-streak-stats.herokuapp.com?user=thatbeautifuldream&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
@@ -108,9 +104,7 @@ while(dev.isCoding())
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
-[![setup-banner](https://user-images.githubusercontent.com/28717686/210162149-98e5716b-2c32-493e-ade2-b91392e40cfc.png)][amazon]
-
-## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
+## 👀 Work Related [`➡️ Resume`](https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf)
 
 <details>
     <summary>📊 Coding Activity </summary>
