@@ -19,7 +19,7 @@
 <div align="center">
   The best way to reach me is on LinkedIn.
   <br />
-  <a href="https://bio.milind.live/">BioLink</a>
+  <a href="https://bio.milind.live/">Bio Link</a>
   <span> · </span>
   <a href="https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf">Resume</a>
   <span> · </span>
