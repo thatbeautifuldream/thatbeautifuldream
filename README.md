@@ -1,29 +1,3 @@
-<!-- [![main-header-banner](https://user-images.githubusercontent.com/28717686/235944207-c23b0cd9-8019-445e-ab77-501870336d68.png)][biolink] -->
-
-<!-- [![main-header-banner](https://user-images.githubusercontent.com/28717686/236653498-5ce9eb5c-2289-42a2-8450-de998f01c906.png)][biolink] -->
-
-<!-- [![skyline-banner](https://user-images.githubusercontent.com/28717686/236796728-7fa1df3e-7a13-4816-8b27-61f038401323.png)](https://bio.milind.live) -->
-
-
-
-<!-- `
-Hey 👋, I'm Milind, I'm into Web Infrastructure.
-` -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin] -->
-
-<!--
-[![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
-[![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
-[![generate-contribution-snake](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml)
-[![metrics](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/metrics.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/metrics.yml)
-[![pages-build-deployment](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment)
-[![update-waka-stats](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml)
-[![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
- -->
-
-<!-- <sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub> -->
-
 <h1 align="center">Hi, I'm Milind. I'm into Web Infrastructure.</h1>
 
 <p align="center">
@@ -78,6 +52,8 @@ while(dev.isCoding())
 ![update-banner](https://user-images.githubusercontent.com/28717686/210162173-3ee23ba2-b62b-466a-9452-0053b0c55902.png)
 
 ## ✨ Connect on Networks
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=16&pause=1000&color=FE0DDE&width=800&lines=A+computer+science+enthusiast+with+a+passion+for+frontend%2C+backend%2C+and+DevOps.;+Currently+exploring+the+world+of+data+science+and+always+eager+to+learn+more.)][linkedin]
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
@@ -191,6 +167,8 @@ YAML         1 hr 48 mins    ██▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<sub><samp><a href="https://bento.me/milindmishra/">all links</a> // <a href="./Milind_Mishra_Resume.pdf">resume</a> // <a href="https://wakatime.com/@milindmishra">coding stats</a> // <a href="https://blog.milind.live/">tech blogs</samp></sub>
 
 [website]: https://milind.live/
 [blog]: https://blog.milind.live/
