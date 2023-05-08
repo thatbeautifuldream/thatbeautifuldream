@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Milind. I'm into Web Infrastructure.</h1>
+<h1 align="center">Hi, I'm Milind.</h1>
 
 <p align="center">
   <a href="https://github.com/thatbeautifuldream">
