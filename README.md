@@ -65,7 +65,6 @@
 ### Latest fom [`Hashnode`][blog]
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Types of Software Engineers](https://blog.milind.live/types-of-software-engineers)
 - [Enhance Your Production Workflow with PM2 Process Manager Automation](https://blog.milind.live/enhance-your-production-workflow-with-pm2-process-manager-automation)
 - [Abstract Equality and Special Types!](https://blog.milind.live/abstract-equality-and-special-types)
