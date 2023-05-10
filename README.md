@@ -43,7 +43,6 @@
 ### Latest from [`YouTube`][youtube]
 
 <!-- YOUTUBE:START -->
-
 - [A relaxing Sunday stream to help you de-stress!](https://www.youtube.com/watch?v=_BDFdOoOl2E)
 - [Create an Impressive GitHub Profile README](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
