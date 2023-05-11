@@ -21,8 +21,6 @@
   <br />
   <a href="https://raw.githubusercontent.com/thatbeautifuldream/thatbeautifuldream/main/.github/assets/Milind_Mishra_Resume.pdf">Resume</a>
   <span> · </span>
-  <a href="https://bio.milind.live/">biolink</a>
-  <span> · </span>
   <a href="https://www.linkedin.com/in/milind--mishra/">LinkedIn</a>
 </div>
 
