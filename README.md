@@ -1,3 +1,3 @@
-![image](https://github.com/user-attachments/assets/9fd6e3a5-3a27-4ea6-be73-719172d086e3)
+![about-banner](https://github.com/user-attachments/assets/584c4b2f-f0c9-4bdd-955f-64f8ada44780)
 
 pushing next-gen chat experiences at merlin ai [github](https://github.com/milind-foyer)
