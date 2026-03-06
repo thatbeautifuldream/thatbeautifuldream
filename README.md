@@ -2,7 +2,7 @@
 
 📍 Bangalore, India | Product Engineer @ [Merlin AI](https://getmerlin.in/chat) | Building for 2M+ users
 
-Perpetually building side projects that started as "just an idea for the weekend." Making AI interfaces feel less robotic and more human — one shipped product at a time.
+Perpetually building side projects that started as "just an idea for the weekend." Making AI interfaces feel less robotic and more human.
 
 🧠 [models.surf](https://models.surf) — Discover AI models and filter capabilities
 
