@@ -1,5 +1,3 @@
-# Milind Mishra
-
 Product Engineer building AI products at [Merlin AI](https://www.getmerlin.in/chat).
 
 I work across frontend engineering, design systems, developer tooling, and AI interfaces. Most of my side projects start as a weekend experiment and end up shipping.
